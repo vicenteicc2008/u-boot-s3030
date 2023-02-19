@@ -2,6 +2,8 @@
 
 Works uart, sd-card.
 
+this is for OWN S3030 (Chilean Phone) and generic MT6582 devices
+
 ## Build
 ```
 make mt6582_prestigio_pmt5008_3g_defconfig
